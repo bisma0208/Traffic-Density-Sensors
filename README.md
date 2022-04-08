@@ -6,3 +6,7 @@ Sometimes higher traffic density at one side of junction demands longer green ti
 Sometimes higher traffic density at one side of junction demands longer green time as compared to standard allotted time. 
 We therefore, propose here a mechanism in which the time period of green light and red light is assigned on the basis of density of the traffic present at that time. 
 We are making a framework for an intelligent traffic control system.
+
+
+
+https://www.youtube.com/watch?v=CFMzBt3ta4o&ab_channel=RazibShahadat
